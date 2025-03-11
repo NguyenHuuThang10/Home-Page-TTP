@@ -300,221 +300,28 @@
                                         40.000 vnđ
                                     </div>
                                 </div>
-                                <div class="card-btn">
+                                <div class="card-btn d-flex">
                                     <a href="#" class="btn-product mt-3">MUA NGAY</a>
-                                    <a href="#" class="btn-product mt-3">THÊM VÀO GIỎ HÀNG</a>
-
+                                    <a href="#" class="btn-product mt-3">THÊM VÀO GIỎ</a>
                                 </div>
                             </div>
                         </div>
                     </div>
 
-                    <div class="col-4 product-item">
-                        <div class="card product-card">
-                            <img src="./img/product.png" class="card-img-top product-img" alt="...">
-                            <img src="./img/sale.svg" alt="" class="sale-img">
-                            <div class="card-body">
-                                <p class="card-text price-old"><del>100.000 vnđ</del></p>
-                                <div class="row main-card">
-                                    <div class="col-6">
-                                        <p class="card-title">Yến sào Táo đỏ</p>
-                                    </div>
 
-                                    <div class="col-6" style="text-align: right;">
-                                        40.000 vnđ
-                                    </div>
-                                </div>
-                                <div class="card-btn">
-                                    <a href="#" class="btn-product mt-3">MUA NGAY</a>
-                                    <a href="#" class="btn-product mt-3">THÊM VÀO GIỎ HÀNG</a>
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-4 product-item">
-                        <div class="card product-card">
-                            <img src="./img/product.png" class="card-img-top product-img" alt="...">
-                            <img src="./img/sale.svg" alt="" class="sale-img">
-                            <div class="card-body">
-                                <p class="card-text price-old"><del>100.000 vnđ</del></p>
-                                <div class="row main-card">
-                                    <div class="col-6">
-                                        <p class="card-title">Yến sào Táo đỏ</p>
-                                    </div>
-
-                                    <div class="col-6" style="text-align: right;">
-                                        40.000 vnđ
-                                    </div>
-                                </div>
-                                <div class="card-btn">
-                                    <a href="#" class="btn-product mt-3">MUA NGAY</a>
-                                    <a href="#" class="btn-product mt-3">THÊM VÀO GIỎ HÀNG</a>
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-4 product-item">
-                        <div class="card product-card">
-                            <img src="./img/product.png" class="card-img-top product-img" alt="...">
-                            <img src="./img/sale.svg" alt="" class="sale-img">
-                            <div class="card-body">
-                                <p class="card-text price-old"><del>100.000 vnđ</del></p>
-                                <div class="row main-card">
-                                    <div class="col-6">
-                                        <p class="card-title">Yến sào Táo đỏ</p>
-                                    </div>
-
-                                    <div class="col-6" style="text-align: right;">
-                                        40.000 vnđ
-                                    </div>
-                                </div>
-                                <div class="card-btn">
-                                    <a href="#" class="btn-product mt-3">MUA NGAY</a>
-                                    <a href="#" class="btn-product mt-3">THÊM VÀO GIỎ HÀNG</a>
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-4 product-item">
-                        <div class="card product-card">
-                            <img src="./img/product.png" class="card-img-top product-img" alt="...">
-                            <img src="./img/sale.svg" alt="" class="sale-img">
-                            <div class="card-body">
-                                <p class="card-text price-old"><del>100.000 vnđ</del></p>
-                                <div class="row main-card">
-                                    <div class="col-6">
-                                        <p class="card-title">Yến sào Táo đỏ</p>
-                                    </div>
-
-                                    <div class="col-6" style="text-align: right;">
-                                        40.000 vnđ
-                                    </div>
-                                </div>
-                                <div class="card-btn">
-                                    <a href="#" class="btn-product mt-3">MUA NGAY</a>
-                                    <a href="#" class="btn-product mt-3">THÊM VÀO GIỎ HÀNG</a>
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-4 product-item">
-                        <div class="card product-card">
-                            <img src="./img/product.png" class="card-img-top product-img" alt="...">
-                            <img src="./img/sale.svg" alt="" class="sale-img">
-                            <div class="card-body">
-                                <p class="card-text price-old"><del>100.000 vnđ</del></p>
-                                <div class="row main-card">
-                                    <div class="col-6">
-                                        <p class="card-title">Yến sào Táo đỏ</p>
-                                    </div>
-
-                                    <div class="col-6" style="text-align: right;">
-                                        40.000 vnđ
-                                    </div>
-                                </div>
-                                <div class="card-btn">
-                                    <a href="#" class="btn-product mt-3">MUA NGAY</a>
-                                    <a href="#" class="btn-product mt-3">THÊM VÀO GIỎ HÀNG</a>
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-4 product-item">
-                        <div class="card product-card">
-                            <img src="./img/product.png" class="card-img-top product-img" alt="...">
-                            <img src="./img/sale.svg" alt="" class="sale-img">
-                            <div class="card-body">
-                                <p class="card-text price-old"><del>100.000 vnđ</del></p>
-                                <div class="row main-card">
-                                    <div class="col-6">
-                                        <p class="card-title">Yến sào Táo đỏ</p>
-                                    </div>
-
-                                    <div class="col-6" style="text-align: right;">
-                                        40.000 vnđ
-                                    </div>
-                                </div>
-                                <div class="card-btn">
-                                    <a href="#" class="btn-product mt-3">MUA NGAY</a>
-                                    <a href="#" class="btn-product mt-3">THÊM VÀO GIỎ HÀNG</a>
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-4 product-item">
-                        <div class="card product-card">
-                            <img src="./img/product.png" class="card-img-top product-img" alt="...">
-                            <img src="./img/sale.svg" alt="" class="sale-img">
-                            <div class="card-body">
-                                <p class="card-text price-old"><del>100.000 vnđ</del></p>
-                                <div class="row main-card">
-                                    <div class="col-6">
-                                        <p class="card-title">Yến sào Táo đỏ</p>
-                                    </div>
-
-                                    <div class="col-6" style="text-align: right;">
-                                        40.000 vnđ
-                                    </div>
-                                </div>
-                                <div class="card-btn">
-                                    <a href="#" class="btn-product mt-3">MUA NGAY</a>
-                                    <a href="#" class="btn-product mt-3">THÊM VÀO GIỎ HÀNG</a>
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-4 product-item">
-                        <div class="card product-card">
-                            <img src="./img/product.png" class="card-img-top product-img" alt="...">
-                            <img src="./img/sale.svg" alt="" class="sale-img">
-                            <div class="card-body">
-                                <p class="card-text price-old"><del>100.000 vnđ</del></p>
-                                <div class="row main-card">
-                                    <div class="col-6">
-                                        <p class="card-title">Yến sào Táo đỏ</p>
-                                    </div>
-
-                                    <div class="col-6" style="text-align: right;">
-                                        40.000 vnđ
-                                    </div>
-                                </div>
-                                <div class="card-btn">
-                                    <a href="#" class="btn-product mt-3">MUA NGAY</a>
-                                    <a href="#" class="btn-product mt-3">THÊM VÀO GIỎ HÀNG</a>
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="more text-center mt-5">
+                    <!-- <div class="more text-center mt-5">
                     <a href="#" class="btn-more">XEM THÊM</a>
+                </div> -->
+
                 </div>
+            </div>
+
+
+
+            <div id="footer">
 
             </div>
         </div>
-
-
-
-        <div id="footer">
-
-        </div>
-    </div>
 
 </body>
 <script src="./js/main.js"></script>

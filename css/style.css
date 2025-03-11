@@ -350,6 +350,10 @@ html {}
 
 .card-btn {
     display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap; /* Đảm bảo responsive trên mobile */
+    gap: 10px; /* Khoảng cách giữa hai nút */
 }
 
 .btn-product {
@@ -357,11 +361,15 @@ html {}
     color: #FF6403;
     font-weight: 700;
     background: none;
-    padding: 7px 20px;
+    padding: 7px 15px;
     text-decoration: none;
-    margin: 0 15px;
+    flex: 1; /* Giúp các nút có kích thước bằng nhau */
+    text-align: center;
+    margin: 5px;
+    min-width: 140px; /* Đảm bảo nút không quá nhỏ */
+    transition: all 0.3s ease-in-out;
+    border-radius: 5px;
 }
-
 .btn-product:hover, .btn-more:hover {
     background-color: #FF6403;
     color: #fff;
@@ -379,12 +387,6 @@ html {}
     border-radius: 20px;
 }
 
-.card-btn {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-}
-
 .btn-more {
     border: 3px solid #FF6403;
     color: #FF6403;
@@ -398,3 +400,12 @@ html {}
 
 
 #footer {}
+
+@media (max-width: 576px) {
+    .card-btn {
+        flex-direction: column; /* Xếp nút dọc khi màn hình nhỏ */
+    }
+    .btn-product {
+        width: 100%; /* Đảm bảo nút chiếm toàn bộ chiều rộng */
+    }
+}
