@@ -86,8 +86,7 @@
                     <h1 class="title-head text-white text-center">TẦM NHÌN - SỨ MỆNH - GIÁ TRỊ</h1>
 
                     <div class="vision-list">
-                        <div class="row">
-                            <div class="col-6 box-gm">
+                            <div class="box-gm">
                                 <div class="vision-img">
                                     <img src="./img/vision 1.svg" alt="">
                                 </div>
@@ -96,7 +95,7 @@
                                 </p>
                             </div>
 
-                            <div class="col-6 box-gm">
+                            <div class="box-gm">
                                 <div class="vision-img">
                                     <img src="./img/vision 2.svg" alt="">
                                 </div>
@@ -105,7 +104,7 @@
                                 </p>
                             </div>
 
-                            <div class="col-6 box-gm">
+                            <div class="box-gm">
                                 <div class="vision-img">
                                     <img src="./img/vision 3.svg" alt="">
                                 </div>
@@ -114,7 +113,6 @@
                                 </p>
                             </div>
 
-                        </div>
                     </div>
                 </div>
             </div>
