@@ -242,13 +242,17 @@ html {}
     
 }
 
-.vision-list .row{
+.vision-list {
+    display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: stretch; /* Đảm bảo các box có chiều cao đều nhau */
+    flex-wrap: nowrap; /* Ngăn không cho các phần tử xuống dòng */
+    gap: 20px; 
 }
 
 .box-gm{
-    width: 30%;
+    flex: 1; /* Chia đều không gian cho tất cả các box */
+    min-width: 30%;
     border-radius: 30px;
     border: 2px solid rgba(255, 224, 205, 0.60);
     background: linear-gradient(90deg, rgba(245, 245, 245, 0.30) 0.11%, rgba(245, 245, 245, 0.12) 99.91%);
@@ -283,7 +287,7 @@ html {}
     width: 80%;
 }
 
-.business-img {
+.business-img-01 {
     width: 61%;
 }
 
