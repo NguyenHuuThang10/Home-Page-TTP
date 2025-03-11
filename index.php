@@ -86,32 +86,32 @@
                     <h1 class="title-head text-white text-center">TẦM NHÌN - SỨ MỆNH - GIÁ TRỊ</h1>
 
                     <div class="vision-list">
-                            <div class="box-gm">
-                                <div class="vision-img">
-                                    <img src="./img/vision 1.svg" alt="">
-                                </div>
-                                <p class="vision-body text-white">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur blandit eleifend tellus, et efficitur nulla consectetur vitae. Donec facilisis lorem sit amet scelerisque maximus. Sed sed sollicitudin elit. Nulla nec congue nisi. Nam nec blandit neque, sit amet sollicitudin velit. Ut condimentum ex vitae.
-                                </p>
+                        <div class="box-gm">
+                            <div class="vision-img">
+                                <img src="./img/vision 1.svg" alt="">
                             </div>
+                            <p class="vision-body text-white">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur blandit eleifend tellus, et efficitur nulla consectetur vitae. Donec facilisis lorem sit amet scelerisque maximus. Sed sed sollicitudin elit. Nulla nec congue nisi. Nam nec blandit neque, sit amet sollicitudin velit. Ut condimentum ex vitae.
+                            </p>
+                        </div>
 
-                            <div class="box-gm">
-                                <div class="vision-img">
-                                    <img src="./img/vision 2.svg" alt="">
-                                </div>
-                                <p class="vision-body text-white">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur blandit eleifend tellus, et efficitur nulla consectetur vitae. Donec facilisis lorem sit amet scelerisque maximus. Sed sed sollicitudin elit. Nulla nec congue nisi. Nam nec blandit neque, sit amet sollicitudin velit. Ut condimentum ex vitae.
-                                </p>
+                        <div class="box-gm">
+                            <div class="vision-img">
+                                <img src="./img/vision 2.svg" alt="">
                             </div>
+                            <p class="vision-body text-white">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur blandit eleifend tellus, et efficitur nulla consectetur vitae. Donec facilisis lorem sit amet scelerisque maximus. Sed sed sollicitudin elit. Nulla nec congue nisi. Nam nec blandit neque, sit amet sollicitudin velit. Ut condimentum ex vitae.
+                            </p>
+                        </div>
 
-                            <div class="box-gm">
-                                <div class="vision-img">
-                                    <img src="./img/vision 3.svg" alt="">
-                                </div>
-                                <p class="vision-body text-white">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur blandit eleifend tellus, et efficitur nulla consectetur vitae. Donec facilisis lorem sit amet scelerisque maximus. Sed sed sollicitudin elit. Nulla nec congue nisi. Nam nec blandit neque, sit amet sollicitudin velit. Ut condimentum ex vitae.
-                                </p>
+                        <div class="box-gm">
+                            <div class="vision-img">
+                                <img src="./img/vision 3.svg" alt="">
                             </div>
+                            <p class="vision-body text-white">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur blandit eleifend tellus, et efficitur nulla consectetur vitae. Donec facilisis lorem sit amet scelerisque maximus. Sed sed sollicitudin elit. Nulla nec congue nisi. Nam nec blandit neque, sit amet sollicitudin velit. Ut condimentum ex vitae.
+                            </p>
+                        </div>
 
                     </div>
                 </div>
@@ -130,13 +130,13 @@
                             </div>
                             <div class="col-6 d-flex align-items-center">
                                 <div class="business-text ">
-                                    <h1 class="business-head">
+                                    <h1 class="list-head">
                                         Tinh chế Yến sào - Yến thô
                                     </h1>
 
                                     <div class="rectangle mt30"></div>
 
-                                    <p class="business-content mt30">
+                                    <p class="list-content mt30">
                                         Donec vestibulum vestibulum eleifend. Mauris pharetra purus nunc, sed hendrerit nisi laoreet id. Mauris vel gravida neque. Fusce aliquet velit et eros cursus, varius pretium magna sollicitudin. Morbi magna nisl, scelerisque sit amet sem in, placerat laoreet nisl. Duis dui dolor, pulvinar nec erat non, porta gravida ipsum. Morbi scelerisque, ante quis volutpat dapibus, erat orci ultricies sem, ac aliquet lorem lacus pretium felis. Nunc faucibus nulla ac ante aliquet, ac tempus ex aliquet. Vestibulum egestas, libero ullamcorper tempor porta, lorem mi aliquet ante, eget eleifend dolor ligula in orci. Vivamus erat ante, placerat eget nisl at, hendrerit tristique turpis. Proin non faucibus nulla. Aliquam erat volutpat. Proin ante eros, tincidunt nec dignissim vehicula, convallis vitae lorem.
                                     </p>
                                 </div>
@@ -148,13 +148,13 @@
                         <div class="row">
                             <div class="col-6 d-flex align-items-center">
                                 <div class="business-text ">
-                                    <h1 class="business-head">
+                                    <h1 class="list-head">
                                         Thực phẩm đóng họp
                                     </h1>
 
                                     <div class="rectangle mt30"></div>
 
-                                    <p class="business-content mt30">
+                                    <p class="list-content mt30">
                                         Donec vestibulum vestibulum eleifend. Mauris pharetra purus nunc, sed hendrerit nisi laoreet id. Mauris vel gravida neque. Fusce aliquet velit et eros cursus, varius pretium magna sollicitudin. Morbi magna nisl, scelerisque sit amet sem in, placerat laoreet nisl. Duis dui dolor, pulvinar nec erat non, porta gravida ipsum. Morbi scelerisque, ante quis volutpat dapibus, erat orci ultricies sem, ac aliquet lorem lacus pretium felis. Nunc faucibus nulla ac ante aliquet, ac tempus ex aliquet. Vestibulum egestas, libero ullamcorper tempor porta, lorem mi aliquet ante, eget eleifend dolor ligula in orci. Vivamus erat ante, placerat eget nisl at, hendrerit tristique turpis. Proin non faucibus nulla. Aliquam erat volutpat. Proin ante eros, tincidunt nec dignissim vehicula, convallis vitae lorem.
                                     </p>
                                 </div>
@@ -174,13 +174,13 @@
                             </div>
                             <div class="col-6 d-flex align-items-center">
                                 <div class="business-text ">
-                                    <h1 class="business-head">
+                                    <h1 class="list-head">
                                         Sản xuất gạo
                                     </h1>
 
                                     <div class="rectangle mt30"></div>
 
-                                    <p class="business-content mt30">
+                                    <p class="list-content mt30">
                                         Donec vestibulum vestibulum eleifend. Mauris pharetra purus nunc, sed hendrerit nisi laoreet id. Mauris vel gravida neque. Fusce aliquet velit et eros cursus, varius pretium magna sollicitudin. Morbi magna nisl, scelerisque sit amet sem in, placerat laoreet nisl. Duis dui dolor, pulvinar nec erat non, porta gravida ipsum. Morbi scelerisque, ante quis volutpat dapibus, erat orci ultricies sem, ac aliquet lorem lacus pretium felis. Nunc faucibus nulla ac ante aliquet, ac tempus ex aliquet. Vestibulum egestas, libero ullamcorper tempor porta, lorem mi aliquet ante, eget eleifend dolor ligula in orci. Vivamus erat ante, placerat eget nisl at, hendrerit tristique turpis. Proin non faucibus nulla. Aliquam erat volutpat. Proin ante eros, tincidunt nec dignissim vehicula, convallis vitae lorem.
                                     </p>
                                 </div>
@@ -192,13 +192,13 @@
                         <div class="row">
                             <div class="col-6 d-flex align-items-center">
                                 <div class="business-text ">
-                                    <h1 class="business-head">
+                                    <h1 class="list-head">
                                         Nước giải khát
                                     </h1>
 
                                     <div class="rectangle mt30"></div>
 
-                                    <p class="business-content mt30">
+                                    <p class="list-content mt30">
                                         Donec vestibulum vestibulum eleifend. Mauris pharetra purus nunc, sed hendrerit nisi laoreet id. Mauris vel gravida neque. Fusce aliquet velit et eros cursus, varius pretium magna sollicitudin. Morbi magna nisl, scelerisque sit amet sem in, placerat laoreet nisl. Duis dui dolor, pulvinar nec erat non, porta gravida ipsum. Morbi scelerisque, ante quis volutpat dapibus, erat orci ultricies sem, ac aliquet lorem lacus pretium felis. Nunc faucibus nulla ac ante aliquet, ac tempus ex aliquet. Vestibulum egestas, libero ullamcorper tempor porta, lorem mi aliquet ante, eget eleifend dolor ligula in orci. Vivamus erat ante, placerat eget nisl at, hendrerit tristique turpis. Proin non faucibus nulla. Aliquam erat volutpat. Proin ante eros, tincidunt nec dignissim vehicula, convallis vitae lorem.
                                     </p>
                                 </div>
@@ -211,6 +211,301 @@
                         </div>
                     </div>
                 </div>
+            </div>
+
+            <div id="brand">
+                <div class="content-section">
+                    <h1 class="title-head text-white text-center">THƯƠNG HIỆU</h1>
+                    <div class="brand-list">
+                        <div class="brand-item">
+                            <div class="row">
+                                <div class="col-5 text-center">
+                                    <img src="./img/LOGO SALLANEST-03 1.svg" alt="" class="brand-img">
+                                    <div class="brand-line"></div>
+                                </div>
+
+                                <div class="col-7 d-flex align-items-center">
+                                    <div class="brand-text ">
+                                        <h1 class="list-head text-white">
+                                            Yến sào SALLANEST
+                                        </h1>
+                                        <p class="list-content mt30 text-white">
+                                            Donec vestibulum vestibulum eleifend. Mauris pharetra purus nunc, sed hendrerit nisi laoreet id. Mauris vel gravida neque. Fusce aliquet velit et eros cursus, varius pretium magna sollicitudin. Morbi magna nisl, scelerisque sit amet sem in, placerat laoreet nisl. Duis dui dolor, pulvinar nec erat non, porta gravida ipsum. Morbi scelerisque, ante quis volutpat dapibus, erat orci ultricies sem, ac aliquet lorem lacus pretium felis. Nunc faucibus nulla ac ante aliquet, ac tempus ex aliquet. Vestibulum egestas, libero ullamcorper tempor porta, lorem mi aliquet ante, eget eleifend dolor ligula in orci. Vivamus erat ante, placerat eget nisl at, hendrerit tristique turpis. Proin non faucibus nulla. Aliquam erat volutpat. Proin ante eros, tincidunt nec dignissim vehicula, convallis vitae lorem.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="brand-item">
+                            <div class="row">
+                                <div class="col-5 text-center">
+                                    <img src="./img/LOGO SALLANEST-03 2.svg" alt="" class="brand-img">
+                                    <div class="brand-line"></div>
+                                </div>
+
+                                <div class="col-7 d-flex align-items-center">
+                                    <div class="brand-text ">
+                                        <h1 class="list-head text-white">
+                                            SALLAFOOD
+                                        </h1>
+                                        <p class="list-content mt30 text-white">
+                                            Donec vestibulum vestibulum eleifend. Mauris pharetra purus nunc, sed hendrerit nisi laoreet id. Mauris vel gravida neque. Fusce aliquet velit et eros cursus, varius pretium magna sollicitudin. Morbi magna nisl, scelerisque sit amet sem in, placerat laoreet nisl. Duis dui dolor, pulvinar nec erat non, porta gravida ipsum. Morbi scelerisque, ante quis volutpat dapibus, erat orci ultricies sem, ac aliquet lorem lacus pretium felis. Nunc faucibus nulla ac ante aliquet, ac tempus ex aliquet. Vestibulum egestas, libero ullamcorper tempor porta, lorem mi aliquet ante, eget eleifend dolor ligula in orci. Vivamus erat ante, placerat eget nisl at, hendrerit tristique turpis. Proin non faucibus nulla. Aliquam erat volutpat. Proin ante eros, tincidunt nec dignissim vehicula, convallis vitae lorem.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="brand-item">
+                            <div class="row">
+                                <div class="col-5 text-center">
+                                    <img src="./img/LOGO SALLANEST-03 3.svg" alt="" class="brand-img">
+                                    <div class="brand-line"></div>
+                                </div>
+
+                                <div class="col-7 d-flex align-items-center">
+                                    <div class="brand-text ">
+                                        <h1 class="list-head text-white">
+                                            SALLA ECOS
+                                        </h1>
+                                        <p class="list-content mt30 text-white">
+                                            Donec vestibulum vestibulum eleifend. Mauris pharetra purus nunc, sed hendrerit nisi laoreet id. Mauris vel gravida neque. Fusce aliquet velit et eros cursus, varius pretium magna sollicitudin. Morbi magna nisl, scelerisque sit amet sem in, placerat laoreet nisl. Duis dui dolor, pulvinar nec erat non, porta gravida ipsum. Morbi scelerisque, ante quis volutpat dapibus, erat orci ultricies sem, ac aliquet lorem lacus pretium felis. Nunc faucibus nulla ac ante aliquet, ac tempus ex aliquet. Vestibulum egestas, libero ullamcorper tempor porta, lorem mi aliquet ante, eget eleifend dolor ligula in orci. Vivamus erat ante, placerat eget nisl at, hendrerit tristique turpis. Proin non faucibus nulla. Aliquam erat volutpat. Proin ante eros, tincidunt nec dignissim vehicula, convallis vitae lorem.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+            <div id="product" class="content-section">
+                <h1 class="title-head text-orange">SẢN PHẨM TIÊU BIỂU</h1>
+
+                <div class="product-list row">
+                    <div class="col-4 product-item">
+                        <div class="card product-card">
+                            <img src="./img/product.png" class="card-img-top product-img" alt="...">
+                            <img src="./img/sale.svg" alt="" class="sale-img">
+                            <div class="card-body">
+                                <p class="card-text price-old"><del>100.000 vnđ</del></p>
+                                <div class="row main-card">
+                                    <div class="col-6">
+                                        <p class="card-title">Yến sào Táo đỏ</p>
+                                    </div>
+
+                                    <div class="col-6" style="text-align: right;">
+                                        40.000 vnđ
+                                    </div>
+                                </div>
+                                <div class="card-btn">
+                                    <a href="#" class="btn-product mt-3">MUA NGAY</a>
+                                    <a href="#" class="btn-product mt-3">THÊM VÀO GIỎ HÀNG</a>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-4 product-item">
+                        <div class="card product-card">
+                            <img src="./img/product.png" class="card-img-top product-img" alt="...">
+                            <img src="./img/sale.svg" alt="" class="sale-img">
+                            <div class="card-body">
+                                <p class="card-text price-old"><del>100.000 vnđ</del></p>
+                                <div class="row main-card">
+                                    <div class="col-6">
+                                        <p class="card-title">Yến sào Táo đỏ</p>
+                                    </div>
+
+                                    <div class="col-6" style="text-align: right;">
+                                        40.000 vnđ
+                                    </div>
+                                </div>
+                                <div class="card-btn">
+                                    <a href="#" class="btn-product mt-3">MUA NGAY</a>
+                                    <a href="#" class="btn-product mt-3">THÊM VÀO GIỎ HÀNG</a>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-4 product-item">
+                        <div class="card product-card">
+                            <img src="./img/product.png" class="card-img-top product-img" alt="...">
+                            <img src="./img/sale.svg" alt="" class="sale-img">
+                            <div class="card-body">
+                                <p class="card-text price-old"><del>100.000 vnđ</del></p>
+                                <div class="row main-card">
+                                    <div class="col-6">
+                                        <p class="card-title">Yến sào Táo đỏ</p>
+                                    </div>
+
+                                    <div class="col-6" style="text-align: right;">
+                                        40.000 vnđ
+                                    </div>
+                                </div>
+                                <div class="card-btn">
+                                    <a href="#" class="btn-product mt-3">MUA NGAY</a>
+                                    <a href="#" class="btn-product mt-3">THÊM VÀO GIỎ HÀNG</a>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-4 product-item">
+                        <div class="card product-card">
+                            <img src="./img/product.png" class="card-img-top product-img" alt="...">
+                            <img src="./img/sale.svg" alt="" class="sale-img">
+                            <div class="card-body">
+                                <p class="card-text price-old"><del>100.000 vnđ</del></p>
+                                <div class="row main-card">
+                                    <div class="col-6">
+                                        <p class="card-title">Yến sào Táo đỏ</p>
+                                    </div>
+
+                                    <div class="col-6" style="text-align: right;">
+                                        40.000 vnđ
+                                    </div>
+                                </div>
+                                <div class="card-btn">
+                                    <a href="#" class="btn-product mt-3">MUA NGAY</a>
+                                    <a href="#" class="btn-product mt-3">THÊM VÀO GIỎ HÀNG</a>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-4 product-item">
+                        <div class="card product-card">
+                            <img src="./img/product.png" class="card-img-top product-img" alt="...">
+                            <img src="./img/sale.svg" alt="" class="sale-img">
+                            <div class="card-body">
+                                <p class="card-text price-old"><del>100.000 vnđ</del></p>
+                                <div class="row main-card">
+                                    <div class="col-6">
+                                        <p class="card-title">Yến sào Táo đỏ</p>
+                                    </div>
+
+                                    <div class="col-6" style="text-align: right;">
+                                        40.000 vnđ
+                                    </div>
+                                </div>
+                                <div class="card-btn">
+                                    <a href="#" class="btn-product mt-3">MUA NGAY</a>
+                                    <a href="#" class="btn-product mt-3">THÊM VÀO GIỎ HÀNG</a>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-4 product-item">
+                        <div class="card product-card">
+                            <img src="./img/product.png" class="card-img-top product-img" alt="...">
+                            <img src="./img/sale.svg" alt="" class="sale-img">
+                            <div class="card-body">
+                                <p class="card-text price-old"><del>100.000 vnđ</del></p>
+                                <div class="row main-card">
+                                    <div class="col-6">
+                                        <p class="card-title">Yến sào Táo đỏ</p>
+                                    </div>
+
+                                    <div class="col-6" style="text-align: right;">
+                                        40.000 vnđ
+                                    </div>
+                                </div>
+                                <div class="card-btn">
+                                    <a href="#" class="btn-product mt-3">MUA NGAY</a>
+                                    <a href="#" class="btn-product mt-3">THÊM VÀO GIỎ HÀNG</a>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-4 product-item">
+                        <div class="card product-card">
+                            <img src="./img/product.png" class="card-img-top product-img" alt="...">
+                            <img src="./img/sale.svg" alt="" class="sale-img">
+                            <div class="card-body">
+                                <p class="card-text price-old"><del>100.000 vnđ</del></p>
+                                <div class="row main-card">
+                                    <div class="col-6">
+                                        <p class="card-title">Yến sào Táo đỏ</p>
+                                    </div>
+
+                                    <div class="col-6" style="text-align: right;">
+                                        40.000 vnđ
+                                    </div>
+                                </div>
+                                <div class="card-btn">
+                                    <a href="#" class="btn-product mt-3">MUA NGAY</a>
+                                    <a href="#" class="btn-product mt-3">THÊM VÀO GIỎ HÀNG</a>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-4 product-item">
+                        <div class="card product-card">
+                            <img src="./img/product.png" class="card-img-top product-img" alt="...">
+                            <img src="./img/sale.svg" alt="" class="sale-img">
+                            <div class="card-body">
+                                <p class="card-text price-old"><del>100.000 vnđ</del></p>
+                                <div class="row main-card">
+                                    <div class="col-6">
+                                        <p class="card-title">Yến sào Táo đỏ</p>
+                                    </div>
+
+                                    <div class="col-6" style="text-align: right;">
+                                        40.000 vnđ
+                                    </div>
+                                </div>
+                                <div class="card-btn">
+                                    <a href="#" class="btn-product mt-3">MUA NGAY</a>
+                                    <a href="#" class="btn-product mt-3">THÊM VÀO GIỎ HÀNG</a>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-4 product-item">
+                        <div class="card product-card">
+                            <img src="./img/product.png" class="card-img-top product-img" alt="...">
+                            <img src="./img/sale.svg" alt="" class="sale-img">
+                            <div class="card-body">
+                                <p class="card-text price-old"><del>100.000 vnđ</del></p>
+                                <div class="row main-card">
+                                    <div class="col-6">
+                                        <p class="card-title">Yến sào Táo đỏ</p>
+                                    </div>
+
+                                    <div class="col-6" style="text-align: right;">
+                                        40.000 vnđ
+                                    </div>
+                                </div>
+                                <div class="card-btn">
+                                    <a href="#" class="btn-product mt-3">MUA NGAY</a>
+                                    <a href="#" class="btn-product mt-3">THÊM VÀO GIỎ HÀNG</a>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="more text-center mt-5">
+                    <a href="#" class="btn-more">XEM THÊM</a>
+                </div>
+
             </div>
         </div>
 

@@ -16,6 +16,7 @@ body {
 }
 
 html {}
+
 /*-------------------------*/
 .text-orange {
     color: #FF6403;
@@ -239,14 +240,14 @@ html {}
 
 #vision {
     background: url(../img/background.png) center/cover no-repeat;
-    
+
 }
 
-.vision-list{
+.vision-list {
     display: flex;
 }
 
-.box-gm{
+.box-gm {
     width: 30%;
     border-radius: 30px;
     border: 2px solid rgba(255, 224, 205, 0.60);
@@ -270,9 +271,7 @@ html {}
     margin-top: 30px;
 }
 
-#business {
-
-}
+#business {}
 
 .business-item {
     padding: 50px 0;
@@ -293,15 +292,109 @@ html {}
     background: #FF6403;
 }
 
-.business-head {
+.list-head {
     font-family: "1FTV VIP Halagar";
     font-size: 2.7rem;
 }
 
-.business-content {
+.list-content {
     text-align: justify;
 }
 
-#footer {
+#brand {
+    background: url(../img/background-brand.png) center/cover no-repeat;
+}
+
+.brand-img {
+    width: 56%;
+}
+
+.brand-item {
+    padding: 5px 0;
+    position: relative;
+}
+
+.brand-line {
+    width: 3px;
+    height: 229px;
+    background-color: #fff;
+    position: absolute;
+    top: 26%;
+    left: 40%;
+}
+
+.product-list {
+    padding: 27px 60px 0;
+}
+
+.product-item {
+    padding: 0 30px;
+    margin-top: 23px;
+}
+
+.product-card {
+    border: none;
+    position: relative;
+}
+
+.price-old {
+    color: #737373;
+    text-align: right;
+    font-weight: 900;
+}
+
+.main-card {
+    font-weight: 900;
+    font-size: 20px;
+}
+
+.card-btn {
+    display: flex;
+}
+
+.btn-product {
+    border: 3px solid #FF6403;
+    color: #FF6403;
+    font-weight: 700;
+    background: none;
+    padding: 7px 20px;
+    text-decoration: none;
+    margin: 0 15px;
+}
+
+.btn-product:hover, .btn-more:hover {
+    background-color: #FF6403;
+    color: #fff;
 
 }
+
+.sale-img {
+    width: 40%;
+    position: absolute;
+    top: -3px;
+    left: -2px;
+}
+
+.product-img {
+    border-radius: 20px;
+}
+
+.card-btn {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.btn-more {
+    border: 3px solid #FF6403;
+    color: #FF6403;
+    font-weight: 700;
+    background: none;
+    padding: 10px 55px;
+    text-decoration: none;
+    margin: 0 15px;
+}
+
+
+
+#footer {}
