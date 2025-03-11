@@ -1,0 +1,308 @@
+@font-face {
+    font-family: "1FTV VIP Halagar";
+    src: url("../font/1FTV-VIP-Halagar.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Inter';
+}
+
+html {}
+/*-------------------------*/
+.text-orange {
+    color: #FF6403;
+}
+
+.text-white {
+    color: #fff;
+}
+
+.mt45 {
+    margin-top: 45px;
+}
+
+.mt50 {
+    margin-top: 50px;
+}
+
+.mt30 {
+    margin-top: 30px;
+}
+
+.text-center {
+    align-items: center;
+}
+
+
+
+/*-------------------------*/
+
+#header {
+    height: 76px;
+    background-color: #febd00;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 100;
+}
+
+.head-icon {
+    display: inline-block;
+}
+
+.head-icon img {
+    height: 76px;
+    margin-left: 31px;
+}
+
+.head-nav {
+    display: inline-block;
+    margin-left: 44px;
+}
+
+.head-nav>.nav>li>a {
+    padding: 5px 14px;
+    text-decoration: none;
+    color: #fff;
+    font-weight: 700;
+    line-height: 76px;
+    letter-spacing: 0.7px;
+    position: relative;
+}
+
+.head-nav .nav li a::after {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 2px;
+    background: #fc904c;
+    bottom: 0;
+    left: 50%;
+    transition: all 0.3s ease;
+}
+
+.head-nav .nav li a:hover::after {
+    width: 100%;
+    left: 0;
+}
+
+.head-nav .nav li a:hover {
+    color: #fc904c;
+}
+
+
+
+.head-right {
+    float: right;
+}
+
+.head-shopping {
+    display: inline-block;
+    margin-right: 123px;
+}
+
+.form-search {
+    width: 212px;
+    height: 26px;
+    margin-right: 12px;
+    display: inline-block;
+    margin-top: 25px;
+    position: relative;
+}
+
+.form-search input {
+    width: 100%;
+    height: 100%;
+    display: block;
+    border-radius: 25px;
+    font-size: 12px;
+    padding: 8px 40px 8px 35px;
+    border: none;
+    background-color: #EFEFEF;
+}
+
+.form-search input:focus {
+    border: 1px solid #000;
+}
+
+.form-search input:focus {
+    outline: none;
+}
+
+.form-search button {
+    position: absolute;
+    top: 1px;
+    right: 170px;
+    width: 50px;
+    height: 100%;
+    border-radius: 50%;
+    cursor: pointer;
+    border: none;
+    background: none;
+    font-size: 18px;
+}
+
+.form-search button i {
+    color: rgb(93, 94, 95);
+}
+
+.form-search button:hover i {
+    color: rgb(162, 163, 163);
+}
+
+
+#slider {
+    padding-top: 50%;
+    background: url('../img/Group.svg') top center / cover no-repeat;
+    position: relative;
+}
+
+#slider .slider-btn {
+    position: absolute;
+    bottom: 23%;
+    left: 8%;
+}
+
+.slider-btn .btn-mua {
+    border: 3px solid #fff;
+    color: #fff;
+    font-weight: 700;
+    background: none;
+    padding: 7px 20px;
+    text-decoration: none;
+    margin: 0 21px;
+}
+
+.slider-btn .btn-mua:hover {
+    background-color: #fff;
+    color: #fc904c;
+
+}
+
+#content {
+    height: 1000px;
+}
+
+.content-section {
+    margin: auto;
+    width: 88%;
+    padding: 80px 27px 105px;
+}
+
+.about-section {
+    margin: auto;
+    width: 88%;
+    padding: 120px 27px 105px;
+    min-height: 65%;
+}
+
+.title-head {
+    font-weight: 800;
+    font-size: 50px;
+    font-family: "1FTV VIP Halagar";
+}
+
+#about .about-des {
+    margin: 30px 0;
+    text-align: justify;
+}
+
+#about .read-more {
+    color: #FF6403;
+    text-decoration: none;
+    font-weight: 900;
+}
+
+#about .read-more:hover {
+    text-decoration: underline;
+}
+
+.about-img {
+    position: relative;
+}
+
+.about-img img {
+    width: 87%;
+    position: absolute;
+    bottom: -95px;
+    right: 31px;
+}
+
+#vision {
+    background: url(../img/background.png) center/cover no-repeat;
+    
+}
+
+.vision-list .row{
+    justify-content: center;
+    align-items: center;
+}
+
+.box-gm{
+    width: 30%;
+    border-radius: 30px;
+    border: 2px solid rgba(255, 224, 205, 0.60);
+    background: linear-gradient(90deg, rgba(245, 245, 245, 0.30) 0.11%, rgba(245, 245, 245, 0.12) 99.91%);
+    backdrop-filter: blur(20px);
+    margin: 50px 26px 0;
+    padding: 0px 27px 70px;
+}
+
+.vision-img {
+    text-align: center;
+    margin-top: 18%;
+}
+
+.vision-img img {
+    width: 33%;
+}
+
+.vision-body {
+    text-align: justify;
+    margin-top: 30px;
+}
+
+#business {
+
+}
+
+.business-item {
+    padding: 50px 0;
+}
+
+.business-img {
+    width: 80%;
+}
+
+.business-img {
+    width: 61%;
+}
+
+.rectangle {
+    width: 162px;
+    height: 9px;
+    border-radius: 20px;
+    background: #FF6403;
+}
+
+.business-head {
+    font-family: "1FTV VIP Halagar";
+    font-size: 2.7rem;
+}
+
+.business-content {
+    text-align: justify;
+}
+
+#footer {
+
+}
