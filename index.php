@@ -149,7 +149,7 @@
                             <div class="col-6 d-flex align-items-center">
                                 <div class="business-text ">
                                     <h1 class="list-head">
-                                        Thực phẩm đóng họp
+                                        Thực phẩm đóng hộp
                                     </h1>
 
                                     <div class="rectangle mt30"></div>
@@ -308,17 +308,291 @@
                         </div>
                     </div>
 
+                    <div class="col-4 product-item">
+                        <div class="card product-card">
+                            <img src="./img/product.png" class="card-img-top product-img" alt="...">
+                            <img src="./img/sale.svg" alt="" class="sale-img">
+                            <div class="card-body">
+                                <p class="card-text price-old"><del>100.000 vnđ</del></p>
+                                <div class="row main-card">
+                                    <div class="col-6">
+                                        <p class="card-title">Yến sào Táo đỏ</p>
+                                    </div>
 
-                    <!-- <div class="more text-center mt-5">
-                    <a href="#" class="btn-more">XEM THÊM</a>
-                </div> -->
+                                    <div class="col-6" style="text-align: right;">
+                                        40.000 vnđ
+                                    </div>
+                                </div>
+                                <div class="card-btn d-flex">
+                                    <a href="#" class="btn-product mt-3">MUA NGAY</a>
+                                    <a href="#" class="btn-product mt-3">THÊM VÀO GIỎ</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-4 product-item">
+                        <div class="card product-card">
+                            <img src="./img/product.png" class="card-img-top product-img" alt="...">
+                            <img src="./img/sale.svg" alt="" class="sale-img">
+                            <div class="card-body">
+                                <p class="card-text price-old"><del>100.000 vnđ</del></p>
+                                <div class="row main-card">
+                                    <div class="col-6">
+                                        <p class="card-title">Yến sào Táo đỏ</p>
+                                    </div>
+
+                                    <div class="col-6" style="text-align: right;">
+                                        40.000 vnđ
+                                    </div>
+                                </div>
+                                <div class="card-btn d-flex">
+                                    <a href="#" class="btn-product mt-3">MUA NGAY</a>
+                                    <a href="#" class="btn-product mt-3">THÊM VÀO GIỎ</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-4 product-item">
+                        <div class="card product-card">
+                            <img src="./img/product.png" class="card-img-top product-img" alt="...">
+                            <img src="./img/sale.svg" alt="" class="sale-img">
+                            <div class="card-body">
+                                <p class="card-text price-old"><del>100.000 vnđ</del></p>
+                                <div class="row main-card">
+                                    <div class="col-6">
+                                        <p class="card-title">Yến sào Táo đỏ</p>
+                                    </div>
+
+                                    <div class="col-6" style="text-align: right;">
+                                        40.000 vnđ
+                                    </div>
+                                </div>
+                                <div class="card-btn d-flex">
+                                    <a href="#" class="btn-product mt-3">MUA NGAY</a>
+                                    <a href="#" class="btn-product mt-3">THÊM VÀO GIỎ</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-4 product-item">
+                        <div class="card product-card">
+                            <img src="./img/product.png" class="card-img-top product-img" alt="...">
+                            <img src="./img/sale.svg" alt="" class="sale-img">
+                            <div class="card-body">
+                                <p class="card-text price-old"><del>100.000 vnđ</del></p>
+                                <div class="row main-card">
+                                    <div class="col-6">
+                                        <p class="card-title">Yến sào Táo đỏ</p>
+                                    </div>
+
+                                    <div class="col-6" style="text-align: right;">
+                                        40.000 vnđ
+                                    </div>
+                                </div>
+                                <div class="card-btn d-flex">
+                                    <a href="#" class="btn-product mt-3">MUA NGAY</a>
+                                    <a href="#" class="btn-product mt-3">THÊM VÀO GIỎ</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-4 product-item">
+                        <div class="card product-card">
+                            <img src="./img/product.png" class="card-img-top product-img" alt="...">
+                            <img src="./img/sale.svg" alt="" class="sale-img">
+                            <div class="card-body">
+                                <p class="card-text price-old"><del>100.000 vnđ</del></p>
+                                <div class="row main-card">
+                                    <div class="col-6">
+                                        <p class="card-title">Yến sào Táo đỏ</p>
+                                    </div>
+
+                                    <div class="col-6" style="text-align: right;">
+                                        40.000 vnđ
+                                    </div>
+                                </div>
+                                <div class="card-btn d-flex">
+                                    <a href="#" class="btn-product mt-3">MUA NGAY</a>
+                                    <a href="#" class="btn-product mt-3">THÊM VÀO GIỎ</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="more text-center mt-5">
+                        <a href="#" class="btn-more">XEM THÊM</a>
+                    </div>
 
                 </div>
             </div>
 
+            <div id="criteria" class="content-section">
+                <h1 class="title-head text-orange">4 TIÊU CHÍ CỦA TIẾN THỊNH PHÁT</h1>
 
+                <div class="criteria-content mt50">
+                    <div class="row">
+                        <div class="col-6">
+                            <div class="box-criteria">
+                                <div class="criteria-title">CÔNG NGHỆ SẢN XUẤT HIỆN ĐẠI</div>
+                                <div class="criteria-des">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse dolor turpis, faucibus vel arcu vel, varius sollicitudin sem. Phasellus varius ex nunc, nec luctus tellus convallis ac. In at fermentum neque. Phasellus fringilla bibendum ex, sit amet pretium quam aliquam ac. Morbi sed urna id mi viverra porta quis vitae nibh. Praesent vel nisi non sem vulputate viverra id id augue. Nulla convallis sem a odio viverra consectetur. </div>
+                            </div>
+                        </div>
+                        <div class="col-6">
+                            <div class="box-criteria">
+                                <div class="criteria-title">CHẤT LƯỢNG SẢN PHẨM ỔN ĐỊNH</div>
+                                <div class="criteria-des">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse dolor turpis, faucibus vel arcu vel, varius sollicitudin sem. Phasellus varius ex nunc, nec luctus tellus convallis ac. In at fermentum neque. Phasellus fringilla bibendum ex, sit amet pretium quam aliquam ac. Morbi sed urna id mi viverra porta quis vitae nibh. Praesent vel nisi non sem vulputate viverra id id augue. Nulla convallis sem a odio viverra consectetur. </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row mt30">
+                        <div class="col-6">
+                            <div class="box-criteria">
+                                <div class="criteria-title">NÓI KHÔNG VỚI CHẤT BẢO QUẢN</div>
+                                <div class="criteria-des">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse dolor turpis, faucibus vel arcu vel, varius sollicitudin sem. Phasellus varius ex nunc, nec luctus tellus convallis ac. In at fermentum neque. Phasellus fringilla bibendum ex, sit amet pretium quam aliquam ac. Morbi sed urna id mi viverra porta quis vitae nibh. Praesent vel nisi non sem vulputate viverra id id augue. Nulla convallis sem a odio viverra consectetur. </div>
+                            </div>
+                        </div>
+                        <div class="col-6">
+                            <div class="box-criteria">
+                                <div class="criteria-title">NGUYÊN LIỆU TƯƠI XANH, AN TOÀN CHO SỨC KHỎE</div>
+                                <div class="criteria-des">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse dolor turpis, faucibus vel arcu vel, varius sollicitudin sem. Phasellus varius ex nunc, nec luctus tellus convallis ac. In at fermentum neque. Phasellus fringilla bibendum ex, sit amet pretium quam aliquam ac. Morbi sed urna id mi viverra porta quis vitae nibh. Praesent vel nisi non sem vulputate viverra id id augue. Nulla convallis sem a odio viverra consectetur. </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div id="news">
+                <div class="news-head">
+                    <h1 class="title-head text-white text-center">TIN TỨC VÀ HOẠT ĐỘNG</h1>
+                    <p class="news-des head text-white text-center mt30">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                </div>
+                <div class="content-section pd-top40">
+                    <div class="news-list row">
+                        <div class="col-4 product-item">
+                            <div class="card product-card">
+                                <img src="./img/news01.png" class="card-img-top product-img" alt="...">
+                                <div class="card-body">
+                                    <div class="main-card">
+                                        <p class="card-title">Chiến dịch "Một hũ yến nhỏ vạn lời yêu thương" vào dịp lễ 8/3</p>
+                                    </div>
+                                    <a href="#" class="read-more">Đọc tiếp</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-4 product-item">
+                            <div class="card product-card">
+                                <img src="./img/news01.png" class="card-img-top product-img" alt="...">
+                                <div class="card-body">
+                                    <div class="main-card">
+                                        <p class="card-title">Chiến dịch "Một hũ yến nhỏ vạn lời yêu thương" vào dịp lễ 8/3</p>
+                                    </div>
+                                    <a href="#" class="read-more">Đọc tiếp</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-4 product-item">
+                            <div class="card product-card">
+                                <img src="./img/news01.png" class="card-img-top product-img" alt="...">
+                                <div class="card-body">
+                                    <div class="main-card">
+                                        <p class="card-title">Chiến dịch "Một hũ yến nhỏ vạn lời yêu thương" vào dịp lễ 8/3</p>
+                                    </div>
+                                    <a href="#" class="read-more">Đọc tiếp</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-4 product-item">
+                            <div class="card product-card">
+                                <img src="./img/news01.png" class="card-img-top product-img" alt="...">
+                                <div class="card-body">
+                                    <div class="main-card">
+                                        <p class="card-title">Chiến dịch "Một hũ yến nhỏ vạn lời yêu thương" vào dịp lễ 8/3</p>
+                                    </div>
+                                    <a href="#" class="read-more">Đọc tiếp</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-4 product-item">
+                            <div class="card product-card">
+                                <img src="./img/news01.png" class="card-img-top product-img" alt="...">
+                                <div class="card-body">
+                                    <div class="main-card">
+                                        <p class="card-title">Chiến dịch "Một hũ yến nhỏ vạn lời yêu thương" vào dịp lễ 8/3</p>
+                                    </div>
+                                    <a href="#" class="read-more">Đọc tiếp</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-4 product-item">
+                            <div class="card product-card">
+                                <img src="./img/news01.png" class="card-img-top product-img" alt="...">
+                                <div class="card-body">
+                                    <div class="main-card">
+                                        <p class="card-title">Chiến dịch "Một hũ yến nhỏ vạn lời yêu thương" vào dịp lễ 8/3</p>
+                                    </div>
+                                    <a href="#" class="read-more">Đọc tiếp</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="more text-center mt-5">
+                        <a href="#" class="btn-more">XEM THÊM</a>
+                    </div>
+
+                </div>
+            </div>
+
+            <div id="contact" class="content-section">
+                <h1 class="title-head text-orange">CƠ HỘI NGHỀ NGHIỆP TẠI TTP</h1>
+                <div class="row">
+                    <div class="col-6">
+                        <p class="contact-des mt30">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel mauris ipsum. Aliquam erat volutpat. Sed quis posuere lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae</p>
+                        <form action="" method="post" class="form-hr">
+                            <div class="row mb-3">
+                                <div class="col-6">
+                                    <input type="text" name="yourname" class="form-control" id="" placeholder="Họ và tên">
+                                </div>
+                                <div class="col-6">
+                                    <input type="text" name="position" class="form-control" id="" placeholder="Chức vụ bạn muốn ứng tuyển">
+                                </div>
+                            </div>
+                            <div class="mb-3">
+                                <input type="email" name="youremail" class="form-control" id="" placeholder="Địa chỉ Email">
+                            </div>
+                            <div class="mb-3">
+                                <input type="text" name="tel" class="form-control" id="" placeholder="Số điện thoại">
+                            </div>
+                            <div class="mb-3">
+                                <textarea id="txtmessage" name="message" class="form-control hr-message" placeholder="Lời nhắn" required></textarea>
+                            </div>
+
+                            <div class="more text-center mt-5">
+                                <button type="submit" name="submit" class="btn-more">GỬI NGAY</button>
+                            </div>
+                        </form>
+                    </div>
+                    <div class="col-6 col-img">
+                        <img src="./img/model.png" alt="" class="model-img">
+                    </div>
+                </div>
+            </div>
 
             <div id="footer">
+                <div class="content-section">
+
+                </div>
 
             </div>
         </div>
