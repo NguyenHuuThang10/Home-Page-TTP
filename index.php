@@ -52,6 +52,19 @@
                 <div class="head-shopping">
                     <img src="./img/shopping-cart.svg" alt="">
                 </div>
+
+                <button class="bars openbtn" onclick="openNav()">
+                    <i class="fa-solid fa-bars-staggered"></i>
+                </button>
+
+                <div id="mySidebar" class="sidebar">
+                    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>
+                    <div class="contact-icon">
+                        <a href="#"><img src="./img/fb-icon.svg" alt=""></a>
+                        <a href="#"><img src="./img/mail.svg" alt=""></a>
+                        <a href="#"><img src="./img/phone.svg" alt=""></a>
+                    </div>
+                </div>
             </div>
 
         </div>
@@ -631,7 +644,14 @@
                     </div>
                 </div>
             </div>
+
+            <div id="lisence">
+                <p>* Tuân thủ Nghị định số 185/2013/NĐ-CP của Chính phủ và luật quảng cáo số 16/2012/QH13 về kinh doanh bán hàng qua mạng.</p>
+                <p>* hoặc gọi tới số hotline (08)76.88.39.39.để được tư vấn.</p>
+            </div>
         </div>
+
+    </div>
 
 </body>
 <script src="./js/main.js"></script>
