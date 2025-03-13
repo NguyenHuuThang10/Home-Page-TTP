@@ -176,14 +176,14 @@ html {}
 
 
 #slider {
-    padding-top: 50%;
-    background: url('../img/Group.svg') top center / cover no-repeat;
+    /* padding-top: 50%;
+    background: url('../img/Group.svg') top center / cover no-repeat; */
     position: relative;
 }
 
 #slider .slider-btn {
     position: absolute;
-    bottom: 23%;
+    bottom: 25%;
     left: 8%;
 }
 
@@ -201,6 +201,10 @@ html {}
     background-color: #fff;
     color: #fc904c;
 
+}
+
+.slider-control {
+    width: 5%;
 }
 
 #content {

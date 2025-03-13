@@ -70,10 +70,40 @@
         </div>
 
         <div id="slider">
-            <div class="slider-btn">
-                <a href="#" class="btn-mua">MUA NGAY</a>
-                <a href="#" class="btn-mua">THÊM VÀO GIỎ HÀNG</a>
+            <div id="carouselExampleFade" class="carousel slide carousel-fade" data-bs-ride="carousel">
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <img src="./img/Group.svg" class="d-block w-100" alt="...">
+                        <div class="slider-btn">
+                            <a href="#" class="btn-mua">MUA NGAY</a>
+                            <a href="#" class="btn-mua">THÊM VÀO GIỎ HÀNG</a>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <img src="./img/Group.svg" class="d-block w-100" alt="...">
+                        <div class="slider-btn">
+                            <a href="#" class="btn-mua">MUA NGAY</a>
+                            <a href="#" class="btn-mua">THÊM VÀO GIỎ HÀNG</a>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <img src="./img/Group.svg" class="d-block w-100" alt="...">
+                        <div class="slider-btn">
+                            <a href="#" class="btn-mua">MUA NGAY</a>
+                            <a href="#" class="btn-mua">THÊM VÀO GIỎ HÀNG</a>
+                        </div>
+                    </div>
+                </div>
+                <button class="carousel-control-prev slider-control" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next slider-control" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Next</span>
+                </button>
             </div>
+
         </div>
 
         <div id="content">
