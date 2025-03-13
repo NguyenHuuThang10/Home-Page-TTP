@@ -590,10 +590,46 @@
             </div>
 
             <div id="footer">
-                <div class="content-section">
+                <div class="row">
+                    <div class="col-4">
+                        <div class="footer-img">
+                            <img src="./img/LOGO TTP_2024-04 3.svg" alt="">
+                            <img src="./img/logo-da-thong-bao-bo-cong-thuong 1.svg" alt="">
+                        </div>
+                    </div>
+                    <div class="col-4">
+                        <h5 class="maps-title text-white">VỊ TRÍ</h5>
+                        <iframe
+                            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d979.5469827913911!2d106.5731156!3d10.8733064!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752b00077ecc4b%3A0xb09406e355b5c3b!2zVMOyYSBuaMOgIEN0eSBUTkhIIFThuq1wIMSRb8OgbiBUaeG6v24gVGjhu4tuaCBQaMOhdA!5e0!3m2!1svi!2s!4v1729567316263!5m2!1svi!2s"
+                            width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy"
+                            referrerpolicy="no-referrer-when-downgrade" class="mt15"></iframe>
 
+                        <p class="text-white mt30">16/5 Nguyễn Văn Bứa, Xuân Thới Sơn, Hóc Môn
+                            Thành phố Hồ Chí Minh</p>
+                    </div>
+                    <div class="col-4">
+                        <div class="footer-policy text-white">
+                            <h5>LIÊN HỆ</h5>
+                            <ul style="list-style-type:none" class="mt15">
+                                <li>Hotline: (026)36 221</li>
+                                <li>Email: hotro24/7@tienthinhphat.com</li>
+                                <li>Websites: sallanest.com</li>
+                                <li>Hợp tác đại lý</li>
+                            </ul>
+
+                            <h5 class="mt30">CHÍNH SÁCH</h5>
+                            <ul style="list-style-type:none" class="mt15">
+                                <li><a href="">Chính sách khiếu nại</a></li>
+                                <li><a href="">Chính sách thanh toán</a></li>
+                                <li><a href="">Chính sách mua hàng</a></li>
+                                <li><a href="">Chính sách bảo mật</a></li>
+                                <li><a href="">Chính sách vận chuyển</a></li>
+                                <li><a href="">Chính sách đổi trả</a></li>
+                            </ul>
+                        </div>
+
+                    </div>
                 </div>
-
             </div>
         </div>
 

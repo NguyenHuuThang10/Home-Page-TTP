@@ -38,6 +38,10 @@ html {}
     margin-top: 30px;
 }
 
+.mt15 {
+    margin-top: 15px;
+}
+
 .pd-top40 {
     padding-top: 40px !important;
 }
@@ -455,7 +459,35 @@ html {}
 
 
 #footer {
-    background: url(../img/background.png) center/cover no-repeat;
+    background: url(../img/background.png) center / cover no-repeat;
+    padding: 65px 80px 90px;
+}
+
+.footer-img {
+    text-align: center;
+}
+
+.maps-title {
+    font-weight: 900;
+}
+
+.footer-policy {
+    width: 75%;
+    margin: 0 auto;
+}
+
+.footer-policy h5 {
+    margin-left: 32px;
+    font-weight: 900;
+}
+
+.footer-policy li {
+    padding-bottom: 5px;
+}
+
+.footer-policy a {
+    text-decoration: none;
+    color: #fff;
 }
 
 @media (max-width: 576px) {
